@@ -7,6 +7,13 @@ ingredients = [
 ]
 
 def sandwich_request(ingredients, order) 
+  ingredients.each do |ingredient| 
+    
+  
+  if sandwich_request is found 
+    puts true 
+  if sandwich_request is not found 
+    puts false 
   # your code here!
 end
 
@@ -35,5 +42,6 @@ cities = {
 }
 
 def city_populations(cities)
+  
   # your code here!
 end
